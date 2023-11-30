@@ -7,8 +7,9 @@
 \n\[[http://bayesiandeeplearning.org/2018/papers/119.pdf paper]\]
 - *Wabartha,  M.*,  Durand,  A.,  Francois-Lavet,  V.,  & Pineau,  J. (2019). "Handling Black Swan Events in Deep Learning with Diversely Extrapolated Neural Networks". NeurIPS Workshop on Safety and Robustness in Decision Making.
 \n\[[https://github.com/maxwab/denn-ijcai code]\]
-- *Wabartha, M.*, Durand, A., Francois-Lavet, V., & Pineau, J. (2020). "Handling Black Swan Events in Deep Learning with Diversely Extrapolated Neural Networks. International Joint Conference on Artificial Intelligence", 2140-2147.
+- *Wabartha, M.*, Durand, A., Francois-Lavet, V., & Pineau, J. (2020). "Handling Black Swan Events in Deep Learning with Diversely Extrapolated Neural Networks". International Joint Conference on Artificial Intelligence, 2140-2147.
 \n\[[https://www.ijcai.org/proceedings/2020/296 paper]\]\[[https://github.com/maxwab/denn-ijcai code]\]
 - Mangeat, G., Ouellette, R., *Wabartha, M.*, De Leener, B., Platt ́en, M., Danylait ́e Karrenbauer, V., ... & Granberg, T. (2020). "Machine Learning and Multiparametric Brain MRI to Differentiate Hereditary Diffuse Leukodystrophy with Spheroids from Multiple Sclerosis". Journal of Neuroimaging.
 \n\[[https://pubmed.ncbi.nlm.nih.gov/32453488/ paper]\]
+- *Wabartha, M.* & Pineau, J. (2023). "Piecewise Linear Parametrization of Policies for Interpretable Deep Reinforcement Learning". NeurIPS Workshop on XAI in Action. \[[https://maxwab.github.io/static/neurips_xai_23.pdf paper]\]
 \n
